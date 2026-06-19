@@ -2,28 +2,70 @@
 
 # Matthew Smith
 
-### Quantitative Economics · Machine Learning · Agentic Trading Systems
+### QUANTITATIVE ECONOMICS · MACHINE LEARNING · AGENTIC TRADING SYSTEMS
 
-I build data-driven tools at the intersection of **economics, financial markets, machine learning, and autonomous AI agents**.
+Building research infrastructure where **financial markets, econometrics, and autonomous AI agents** meet.
 
-[![Website](https://img.shields.io/badge/Website-LF0.com-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white)](http://LF0.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matthew_Smith-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/msmithsm14/)
-[![GitHub](https://img.shields.io/badge/GitHub-msmith01-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/msmith01)
-
-[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=for-the-badge&color=0284c7&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D37184)](https://codetime.dev)
+[![Website](https://img.shields.io/badge/WEBSITE-LF0.COM-00a8ff?style=for-the-badge&logo=googlechrome&logoColor=white)](http://LF0.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-MATTHEW_SMITH-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/msmithsm14/)
+[![CodeTime](https://shields.jannchie.com/endpoint?style=for-the-badge&color=00a8ff&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D37184)](https://codetime.dev)
 
 </div>
 
 ---
 
-## Current focus
+## `01 / LIVE STATUS`
 
-- Designing **agentic research and trading systems** for financial markets
-- Applying **machine learning and econometrics** to asset pricing and economic data
-- Building reproducible pipelines for **SEC filings, alternative data, and quantitative research**
-- Exploring how LLM agents can improve research, forecasting, and decision workflows
+<div align="center">
 
-## Featured work
+[![CodeTime Status](https://codetime.dev/api/widgets/status.svg?uid=37184&theme=dark&style=minimal)](https://codetime.dev)
+
+</div>
+
+## `02 / ACTIVITY CALENDAR`
+
+<div align="center">
+
+[![CodeTime Activity Calendar](https://codetime.dev/api/widgets/calendar.svg?uid=37184&theme=dark)](https://codetime.dev)
+
+</div>
+
+## `03 / TOP LANGUAGES & PROJECTS`
+
+<table>
+<tr>
+<td width="50%" align="center">
+<a href="https://codetime.dev">
+<img alt="Top coding languages" src="https://codetime.dev/api/widgets/donut.svg?uid=37184&days=30&limit=5&theme=dark" width="100%">
+</a>
+</td>
+<td width="50%" align="center">
+<a href="https://codetime.dev">
+<img alt="Top coding projects" src="https://codetime.dev/api/widgets/donut.svg?uid=37184&mode=projects&days=30&limit=5&theme=dark" width="100%">
+</a>
+</td>
+</tr>
+</table>
+
+## `04 / CODING TREND`
+
+<div align="center">
+
+[![CodeTime Trend](https://codetime.dev/api/widgets/trend.svg?uid=37184&days=90&theme=dark)](https://codetime.dev)
+
+</div>
+
+## `05 / AI AGENT USAGE`
+
+<div align="center">
+
+[![CodeTime Agent Usage](https://codetime.dev/api/widgets/usage.svg?uid=37184&theme=dark&style=minimal&range=30d)](https://codetime.dev)
+
+</div>
+
+---
+
+## `06 / RESEARCH SYSTEMS`
 
 <table>
 <tr>
@@ -31,18 +73,18 @@ I build data-driven tools at the intersection of **economics, financial markets,
 
 ### [Asset Pricing 2026](https://github.com/msmith01/AssetPricing_2026)
 
-Research and teaching material for modern empirical asset pricing and quantitative finance.
+Modern empirical asset-pricing research and quantitative-finance material.
 
-`Asset Pricing` `Econometrics` `R` `Finance`
+`ASSET PRICING` `ECONOMETRICS` `R` `FINANCE`
 
 </td>
 <td width="50%" valign="top">
 
 ### [SEC Knowledge Graph](https://github.com/msmith01/SEC_KG)
 
-Tools for turning SEC filing data into structured, searchable knowledge for financial analysis.
+Structuring SEC filings into searchable knowledge for financial analysis.
 
-`SEC Filings` `Knowledge Graphs` `Python` `LLMs`
+`SEC FILINGS` `KNOWLEDGE GRAPHS` `PYTHON` `LLMs`
 
 </td>
 </tr>
@@ -51,63 +93,44 @@ Tools for turning SEC filing data into structured, searchable knowledge for fina
 
 ### [Sonic Hedge Fund](https://github.com/msmith01/sonicHedgeFund)
 
-An experimental project exploring AI-assisted investment research and systematic workflows.
+Experimental AI-assisted investment research and systematic workflows.
 
-`AI Agents` `Trading` `Research` `Automation`
+`AI AGENTS` `TRADING` `RESEARCH` `AUTOMATION`
 
 </td>
 <td width="50%" valign="top">
 
 ### [Financial Time Series](https://github.com/msmith01/financial_time_series)
 
-Machine-learning experiments for distinguishing real and synthetic financial time-series data.
+Machine-learning experiments with real and synthetic market data.
 
-`Time Series` `Machine Learning` `Jupyter` `Markets`
+`TIME SERIES` `MACHINE LEARNING` `JUPYTER` `MARKETS`
 
 </td>
 </tr>
 </table>
 
-## Technical toolkit
+## `07 / TOOLKIT`
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-111827?style=for-the-badge&logo=python&logoColor=00a8ff)
+![R](https://img.shields.io/badge/R-111827?style=for-the-badge&logo=r&logoColor=00a8ff)
+![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=00a8ff)
+![Docker](https://img.shields.io/badge/DOCKER-111827?style=for-the-badge&logo=docker&logoColor=00a8ff)
+![GitHub Actions](https://img.shields.io/badge/ACTIONS-111827?style=for-the-badge&logo=githubactions&logoColor=00a8ff)
+![VS Code](https://img.shields.io/badge/VS_CODE-111827?style=for-the-badge&logo=visualstudiocode&logoColor=00a8ff)
 
-**Methods:** machine learning · econometrics · time-series analysis · NLP · knowledge graphs · agentic systems
-
-</div>
-
-## Coding activity
-
-<div align="center">
-
-<a href="https://codetime.dev">
-  <img alt="Top coding languages from CodeTime" src="https://codetime.dev/api/widgets/donut.svg?uid=37184" width="460">
-</a>
+`MACHINE LEARNING` · `ECONOMETRICS` · `TIME SERIES` · `NLP` · `KNOWLEDGE GRAPHS` · `AGENTIC SYSTEMS`
 
 </div>
-
-## Research background
-
-I am an economics researcher focused on applying modern machine-learning methods to economic and financial problems. My work combines rigorous empirical analysis with practical software engineering, with an emphasis on systems that are reproducible, testable, and useful outside the notebook.
-
-## Connect
-
-- [LinkedIn](https://www.linkedin.com/in/msmithsm14/)
-- [Personal website](http://LF0.com)
-- Browse my [public repositories](https://github.com/msmith01?tab=repositories)
 
 ---
 
 <div align="center">
 
-*Research should be rigorous. Software should be usable. Models should survive contact with real data.*
+### `RESEARCH SHOULD BE RIGOROUS · SOFTWARE SHOULD BE USABLE · MODELS SHOULD SURVIVE REAL DATA`
+
+[LinkedIn](https://www.linkedin.com/in/msmithsm14/) · [Website](http://LF0.com) · [Repositories](https://github.com/msmith01?tab=repositories)
 
 </div>
